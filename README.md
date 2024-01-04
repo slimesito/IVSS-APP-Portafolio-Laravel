@@ -22,7 +22,23 @@ A continuación se muestran detalladamente cada una de las funciones que realiza
 
 En caso de que el número de Cédula ya se encuentre registrado en la base de datos la aplicación arrojará el siguiente error:
 
-<p align="center"><a><img src="https://i.ibb.co/sQDj1Qn/search-error.png" width="400" alt="Show"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/sQDj1Qn/search-error.png" width="400" alt="Search Error"></a></p>
+
+<br>
+
+- Editar la información de los Ciudadanos ya registrados (exceptuando el número de Cédula).
+
+<p align="center"><a><img src="https://i.ibb.co/p1KGDqk/search-1.png" width="800" alt="Edit"></a></p>
+
+<p align="center"><a><img src="https://i.ibb.co/fMKh6k0/edit-form.png" width="800" alt="Edit Form"></a></p>
+
+Una vez modificada y guardada la información se mostrará el siguiente mensaje:
+
+<p align="center"><a><img src="https://i.ibb.co/BPNZHQv/edit-form-2.png" width="800" alt="Edit Form 2"></a></p>
+
+Y se muestra la información guardada en la base de datos:
+
+<p align="center"><a><img src="https://i.ibb.co/Z6PKHzH/updated-data.png width="800" alt="Updated Data"></a></p>
 
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
