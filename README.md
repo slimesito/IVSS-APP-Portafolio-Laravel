@@ -18,6 +18,12 @@ A continuación se muestran detalladamente cada una de las funciones que realiza
 
 <p align="center"><a><img src="https://i.ibb.co/wdQkjP1/search.png" width="400" alt="Search"></a></p>
 
+<p align="center"><a><img src="https://i.ibb.co/p1KGDqk/search-1.png" width="800" alt="Show"></a></p>
+
+En caso de que el número de Cédula ya se encuentre registrado en la base de datos la aplicación arrojará el siguiente error:
+
+<p align="center"><a><img src="https://i.ibb.co/w09vMFt/search-error.png" width="800" alt="Show"></a></p>
+
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
