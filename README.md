@@ -10,7 +10,14 @@ Esta aplicación fue realizada con el fin de permitir a los trabajadores del Ins
 
 <br>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+## Funcionalidades 📃
+
+A continuación se muestran detalladamente cada una de las funciones que realiza la aplicación:
+
+- Búsqueda de Ciudadanos por número de Cédula.
+
+<p align="center"><a><img src="https://i.ibb.co/wdQkjP1/search.png" width="400" alt="Search"></a></p>
+
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
