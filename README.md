@@ -4,7 +4,11 @@
 
 Esta aplicación fue realizada con el fin de permitir a los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS) agregar nuevos Ciudadanos a la Base de Datos del IVSS y a su vez buscar y editar información detallada de cada uno de los Ciudadanos y que esta se vea plasmada en una tabla donde se muestre detalladamente dicha información. Se hizo enfoque en hacer más amigable la interfaz para los trabajadores para que estos puedan realizar sus tareas de la manera más rápida y cómoda posible.
 
-<p align="center"><a><img src="https://i.ibb.co/4t55j1M/home-view-ivss-app.png" width="400" alt="Home View"></a></p>
+<br>
+
+<p align="center"><a><img src="https://i.ibb.co/4t55j1M/home-view-ivss-app.png" width="800" alt="Home View"></a></p>
+
+<br>
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
