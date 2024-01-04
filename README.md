@@ -30,6 +30,8 @@ En caso de que el número de Cédula ya se encuentre registrado en la base de da
 
 <p align="center"><a><img src="https://i.ibb.co/p1KGDqk/search-1.png" width="800" alt="Edit"></a></p>
 
+Formulario para la Edición de la información de los Ciudadanos:
+
 <p align="center"><a><img src="https://i.ibb.co/fMKh6k0/edit-form.png" width="800" alt="Edit Form"></a></p>
 
 Una vez modificada y guardada la información se mostrará el siguiente mensaje:
@@ -38,7 +40,25 @@ Una vez modificada y guardada la información se mostrará el siguiente mensaje:
 
 Y se muestra la información guardada en la base de datos:
 
-<p align="center"><a><img src="https://i.ibb.co/Z6PKHzH/updated-data.png width="800" alt="Updated Data"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/Z6PKHzH/updated-data.png" width="800" alt="Updated Data"></a></p>
+
+<br>
+
+- Agregar nuevos Ciudadanos.
+
+<p align="center"><a><img src="https://i.ibb.co/Tw1ZnsK/create.png" width="400" alt="Create"></a></p>
+
+Formulario para agregar nuevos Ciudadanos:
+
+<p align="center"><a><img src="https://i.ibb.co/V3XVhpY/create-form.png" width="800" alt="Create Form"></a></p>
+
+Una vez guardada la información se arrojará el siguiente mensaje:
+
+<p align="center"><a><img src="https://i.ibb.co/Z6PKHzH/updated-data.png" width="800" alt="Updated Data"></a></p>
+
+Se muestra la información guardada en la base de datos:
+
+<p align="center"><a><img src="https://i.ibb.co/TgnL0s8/uploaded-data-2.png" width="800" alt="Updated Data 2"></a></p>
 
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
