@@ -54,7 +54,7 @@ Formulario para agregar nuevos Ciudadanos:
 
 Una vez guardada la información se arrojará el siguiente mensaje:
 
-<p align="center"><a><img src="https://i.ibb.co/Z6PKHzH/updated-data.png" width="800" alt="Updated Data"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/Kj8tqGX/uploaded-data-1.png" width="800" alt="Updated Data"></a></p>
 
 Se muestra la información guardada en la base de datos:
 
