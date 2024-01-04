@@ -9,7 +9,7 @@
 
 ## IVSS-APP
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Esta aplicación fue realizada con el fin de permitir a los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS) agregar nuevos Ciudadanos a la Base de Datos y a su vez mostrar la información detallada de cada ciudadano y también permitir hacer una búsqueda por número de cédula de los ciudadanos registrados en la Base de Datos y que permita editar la información de cada Ciudadano a excepción de su número de Cédula.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
