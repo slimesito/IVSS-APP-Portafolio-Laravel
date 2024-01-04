@@ -1,8 +1,10 @@
-<p align="center"><a href="" target="_blank"><img src="https://i.ibb.co/7YMFkYq/Logoivssrojo.png" alt="IVSS Logo"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/7YMFkYq/Logoivssrojo.png" alt="IVSS Logo"></a></p>
 
 ## IVSS-APP
 
-Esta aplicación fue realizada con el fin de permitir a los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS) agregar nuevos Ciudadanos a la Base de Datos y a su vez mostrar la información detallada de cada ciudadano y también permitir hacer una búsqueda por número de cédula de los ciudadanos registrados en la Base de Datos y que permita editar la información de cada Ciudadano a excepción de su número de Cédula.
+Esta aplicación fue realizada con el fin de permitir a los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS) agregar nuevos Ciudadanos a la Base de Datos del IVSS y a su vez buscar y editar información detallada de cada uno de los Ciudadanos y que esta se vea plasmada en una tabla donde se muestre detalladamente dicha información. Se hizo enfoque en hacer más amigable la interfaz para los trabajadores para que estos puedan realizar sus tareas de la manera más rápida y cómoda posible.
+
+<p align="center"><a><img src="https://i.ibb.co/4t55j1M/home-view-ivss-app.png" width="400" alt="Home View"></a></p>
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
