@@ -78,7 +78,7 @@ class PensionadoController extends Controller
         $pensionado                 = Pensionado::find($id);
         $pensionado->apellido       = strtoupper($request->apellido);
         $pensionado->nombre         = strtoupper($request->nombre);
-        $pensionado->cedula         = $request->cedula;
+        $pensionado->cedula;
         $pensionado->sexo           = $request->sexo;
         $pensionado->estado         = $request->estado;
         $pensionado->nacimiento     = $request->nacimiento;

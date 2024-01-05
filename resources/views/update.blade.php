@@ -45,6 +45,11 @@
                     <input type="text" value="{{$pensionados->apellido}}" name="apellido" id="apellido_input" required>
                 </div>
 
+                <div class="cedula">
+                    <label for="cedula">Cédula</label>
+                    <input type="text" value="{{$pensionados->cedula}}" name="cedula" id="cedula" required disabled>
+                </div>
+
                 <div class="sexo">
                     <label for="sexo">Sexo</label>
                     <select name="sexo" id="sexo_input" required>
