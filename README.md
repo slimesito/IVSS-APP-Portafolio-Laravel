@@ -1,8 +1,8 @@
 <p align="center"><a><img src="https://i.ibb.co/7YMFkYq/Logoivssrojo.png" alt="IVSS Logo"></a></p>
 
-## IVSS-APP
+## Aplicación del Instituto Venezolano de los Seguros Sociales (IVSS)
 
-Esta aplicación fue realizada con el fin de permitir a los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS) agregar nuevos Ciudadanos a la Base de Datos del IVSS y a su vez buscar y editar información detallada de cada uno de los Ciudadanos y que esta se vea plasmada en una tabla donde se muestre detalladamente dicha información. Se hizo enfoque en hacer más amigable la interfaz para los trabajadores para que estos puedan realizar sus tareas de la manera más rápida y cómoda posible.
+Esta aplicación es una herramienta integral diseñada específicamente para los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS). Su principal objetivo es permitir la adición eficiente de nuevos ciudadanos a la base de datos del IVSS.
 
 <br>
 
@@ -10,11 +10,9 @@ Esta aplicación fue realizada con el fin de permitir a los trabajadores del Ins
 
 <br>
 
-## Funcionalidades 📃
+## Características Principales 📃
 
-A continuación se muestran detalladamente cada una de las funciones que realiza la aplicación:
-
-- Búsqueda de Ciudadanos por número de Cédula.
+- Proporciona funcionalidades para la búsqueda y edición ágil de información detallada de cada individuo. La información editada se refleja instantáneamente en una tabla detallada, garantizando que los datos estén siempre actualizados y sean fácilmente accesibles. Se ha hecho un enfoque especial en la interfaz de usuario, buscando hacerla amigable e intuitiva. Esto asegura que los trabajadores puedan realizar sus tareas rápidamente y con comodidad, mejorando así la eficiencia operativa.
 
 <p align="center"><a><img src="https://i.ibb.co/wdQkjP1/search.png" width="400" alt="Search"></a></p>
 
