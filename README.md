@@ -1,6 +1,6 @@
 <p align="center"><a><img src="https://i.ibb.co/7YMFkYq/Logoivssrojo.png" alt="IVSS Logo"></a></p>
 
-## Aplicación del Instituto Venezolano de los Seguros Sociales (IVSS)
+## Aplicación Web para el Instituto Venezolano de los Seguros Sociales (IVSS)
 
 Esta aplicación es una herramienta integral diseñada específicamente para los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS). Su principal objetivo es permitir la adición eficiente de nuevos ciudadanos a la base de datos del IVSS.
 
